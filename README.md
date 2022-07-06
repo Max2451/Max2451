@@ -1,6 +1,6 @@
-- Hi, I’m @Max2451
-- I’m interested in videogames and python
-- I’m currently learning python and discord.py
+## Hi, I’m @Max2451
+- I like videogames and programming
+- I’m currently learning python
 
 <!---
 Max2451/Max2451 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
